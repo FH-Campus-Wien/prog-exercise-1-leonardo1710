@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "sayHelloWorld",
+      "setup": "",
+      "run": "gradle test --tests at.ac.fhcampuswien.AppTest.sayHelloWorld",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "helloRobot",
+      "setup": "",
+      "run": "gradle test --tests at.ac.fhcampuswien.AppTest.helloRobot",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "sumOfLiterals",
+      "setup": "",
+      "run": "gradle test --tests at.ac.fhcampuswien.AppTest.sumOfLiterals",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "addTwoNumbers",
+      "setup": "",
+      "run": "gradle test --tests at.ac.fhcampuswien.AppTest.addTwoNumbers",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "swapTwoNumbers",
+      "setup": "",
+      "run": "gradle test --tests at.ac.fhcampuswien.AppTest.swapTwoNumbers",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "compareTwoNumbers",
+      "setup": "",
+      "run": "gradle test --tests at.ac.fhcampuswien.AppTest.compareTwoNumbers*",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "ratingSalesPerson",
+      "setup": "",
+      "run": "gradle test --tests at.ac.fhcampuswien.AppTest.ratingSalesPerson*",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "getCommissionRate",
+      "setup": "",
+      "run": "gradle test --tests at.ac.fhcampuswien.AppTest.getCommissionRate*",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "leapyear",
+      "setup": "",
+      "run": "gradle test --tests at.ac.fhcampuswien.AppTest.leapYear*",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "transposedNumbers",
+      "setup": "",
+      "run": "gradle test --tests at.ac.fhcampuswien.AppTest.transposedNumbers",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    }
+  ]
+}
